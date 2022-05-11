@@ -1,4 +1,4 @@
-![swift]<img src="https://raw.githubusercontent.com/github/explore/main/topics/swift/swift.png" width="400" height="790">
+![swift]<img src="https://raw.githubusercontent.com/github/explore/main/topics/swift/swift.png" width="300" height="300">
 
 ### Hi there 👋  I'm Mehran!
 
