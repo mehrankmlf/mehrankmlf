@@ -1,4 +1,5 @@
-https://raw.githubusercontent.com/github/explore/main/topics/swift/swift.png
+![swift](https://user-images.githubusercontent.com/24524023/167912016-14d0363f-89d7-4694-9767-dd71b30bd83a.png)
+
 ### Hi there 👋  I'm Mehran!
 
 <!--
