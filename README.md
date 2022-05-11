@@ -1,6 +1,8 @@
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/swift/swift.png" width="100" height="100">
-### Hi there 👋  I'm Mehran!
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/swift/swift.png" width="80" height="80">
+Hi there 👋  I'm Mehran!
 
+
+&ensp;
 <!--
 **mehrankmlf/mehrankmlf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
