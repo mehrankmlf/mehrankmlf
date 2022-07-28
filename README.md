@@ -23,8 +23,7 @@ Here are some ideas to get you started:
   ## 📫 &nbsp;My Contacts
 
   <!-- [![Portfolio Badge](https://img.shields.io/badge/-Portifolio-blueviolet?style=flat-square&logo=Portfolio&logoColor=white)](https://pepyn0.github.io/)&nbsp; -->
-  [![LinkedIn Badge](https://img.shields.io/badge/-Mehran-Kamalifard-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mehran-kamalifard/)]([https://www.linkedin.com/in/mehran-kamalifard/](https://www.linkedin.com/in/mehran-kamalifard/))&nbsp;
-  [![Apple Badge](https://img.shields.io/badge/-pablo.pds100@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:pablo.pds100@gmail.com)&nbsp;
-  [![Instagram Badge](https://img.shields.io/badge/-Pepyn0__-EB2A08?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/mehran.kmlf/)&nbsp;
-</div>
+  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+
 
