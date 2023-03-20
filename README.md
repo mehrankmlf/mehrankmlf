@@ -3,8 +3,6 @@ Hi there 👋  I'm Mehran!
 
 I have been working as an iOS developer for the past 5 years. My background includes developing applications for a wide range of industries, including the stock market, banking, Financial, and entertainment.
 I have also worked on several large-scale projects, which required me to work with teams of other developers. My most recent project was developing and maintaining an application for one of the oldest and biggest Iranian banks.
-I am confident that my skills and experience will allow me to be a valuable asset to your team. I am a quick learner who is always looking to expand my knowledge of programming. I am also confident that I can quickly learn any techniques that you require me to use. Overall I am looking for a team that improves my technical and personal skills.
-Thank you for your time and consideration.
 
 &ensp;
 <!--
