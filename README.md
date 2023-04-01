@@ -2,7 +2,7 @@
 Hi there 👋  I'm Mehran!
 
 I have been working as an iOS developer for the past 5 years. My background includes developing applications for a wide range of industries, including the stock market, banking, Financial, and entertainment.
-I have also worked on several large-scale projects, which required me to work with teams of other developers. My most recent project was developing and maintaining an application for one of the oldest and biggest Iranian banks.
+I have also worked on several large-scale projects.
 
 &ensp;
 <!--
