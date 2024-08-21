@@ -1,8 +1,9 @@
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/swift/swift.png" width="80" height="80">
 Hi there 👋  I'm Mehran!
 
-I have been working as an iOS developer for the past 5 years. My background includes developing applications for a wide range of industries, including the stock market, banking, Financial, and entertainment.
-I have also worked on several large-scale projects.
+With over five years of experience in iOS development, I am a seasoned iOS Engineer in the online industry, contributing to the creation of high-quality applications. My expertise lies in utilizing Swift, SwiftUI, and Combine, alongside various other technologies and frameworks, to enhance user experiences and app performance.
+
+My passion lies in crafting user-friendly, secure, and efficient applications that cater to the needs of enterprise users. I possess a robust foundation in object-oriented programming, as well as proficiency in scrum and agile methodologies. Additionally, I hold multiple certifications in mobile app security and iOS development.
 
 &ensp;
 <!--
